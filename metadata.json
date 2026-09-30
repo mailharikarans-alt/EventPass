@@ -1,0 +1,6 @@
+{
+  "name": "EventPass - Event Ticketing & QR Check-in Platform",
+  "description": "Schedule events, publish tickets, discover experiences, checkout seamlessly with QR-code tickets, and manage event admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
